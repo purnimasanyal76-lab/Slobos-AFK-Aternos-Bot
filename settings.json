@@ -8,7 +8,7 @@
   "server": {
     "ip": "DholakpurSMPdgp.play.hosting",
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
