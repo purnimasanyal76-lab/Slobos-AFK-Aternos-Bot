@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 1800,
       "messages": [
         "I was made by MinePScraft",
@@ -80,6 +80,6 @@
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
   }
 }
