@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "axel.hostzy.space:25577",
+    "ip": "axel.hostzy.space",
+    "port": 25577,
     "version": "1.21.11",
     "try-creative": false
   },
